@@ -4,6 +4,9 @@ Based off of the PyTorch Torchvision object detection finetuning tutorial. Uses 
 - Torchvision Object Detection Finetuning Tutorial - https://pytorch.org/tutorials/intermediate/torchvision_tutorial.html#torchvision-object-detection-finetuning-tutorial
 - MinneApple: A Benchmark Dataset for Apple Detection and Segmentation - https://conservancy.umn.edu/handle/11299/206575
 
+# Example
+
+
 # Guide
 
 First, clone this repository, 
@@ -29,3 +32,4 @@ python test.py
  The detection isn't the most accurate as we were only given 48 hours to complete the project and train it. Due to hardware constraints we weren't able to train extensively.
  
  - fix the output to draw masks over the images
+ - fix the number of masks outputted in demo
