@@ -10,7 +10,7 @@ In the first image the masks were drawn over the test image using GIMP. The seco
     <img width="47%" src="examples/test7.png" style="max-width:50%;"></a>
     <img width="50%" src="examples/Figure_7.png" style="max-width:20%;"></a>
 </p>
-Last four images are examples of masks detected on the test image.
+Last four images are examples of the masks detected on the test image and used to get the first image.
 <p align="left">
     <img width="24%" src="examples/Figure_7d1.png" style="max-width:20%;"></a>
     <img width="24%" src="examples/Figure_7d2.png" style="max-width:20%;"></a>
