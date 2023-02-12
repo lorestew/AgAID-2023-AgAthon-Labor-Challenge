@@ -5,7 +5,7 @@ Based off of the PyTorch Torchvision object detection finetuning tutorial. Uses 
 - MinneApple: A Benchmark Dataset for Apple Detection and Segmentation - https://conservancy.umn.edu/handle/11299/206575
 
 # Example
-
+In the first image the masks were drawn over the test image using GIMP. The second image is the image used to test.
 <p align="left">
     <img width="45%" src="examples/test7.png" style="max-width:50%;"></a>
     <img width="50%" src="examples/Figure_7.png" style="max-width:20%;"></a>
@@ -14,8 +14,7 @@ Based off of the PyTorch Torchvision object detection finetuning tutorial. Uses 
     <img width="30%" src="examples/Figure_7d3.png" style="max-width:20%;"></a>
     <img width="30%" src="examples/Figure_7d4.png" style="max-width:20%;"></a>
 </p>
-
-    
+Last four images are examples of masks detected on the test image.
 
 # Guide
 
