@@ -8,7 +8,7 @@ Based off of the PyTorch Torchvision object detection finetuning tutorial. Uses 
 
 <p align="left">
     <img width="50%" src="examples/test7.png" style="max-width:50%;"></a>
-    <img width="30%" src="examples/Figure_7.png" style="max-width:20%;"></a>
+    <img width="40%" src="examples/Figure_7.png" style="max-width:20%;"></a>
     <img width="30%" src="examples/Figure_7d1.png" style="max-width:20%;"></a>
     <img width="30%" src="examples/Figure_7d2.png" style="max-width:20%;"></a>
     <img width="30%" src="examples/Figure_7d3.png" style="max-width:20%;"></a>
