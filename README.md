@@ -7,7 +7,7 @@ Based off of the PyTorch Torchvision object detection finetuning tutorial. Uses 
 # Example
 In the first image the masks were drawn over the test image using GIMP. The second image is the image used to test.
 <p align="left">
-    <img width="45%" src="examples/test7.png" style="max-width:50%;"></a>
+    <img width="47%" src="examples/test7.png" style="max-width:50%;"></a>
     <img width="50%" src="examples/Figure_7.png" style="max-width:20%;"></a>
     <img width="24%" src="examples/Figure_7d1.png" style="max-width:20%;"></a>
     <img width="24%" src="examples/Figure_7d2.png" style="max-width:20%;"></a>
