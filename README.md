@@ -7,12 +7,12 @@ Based off of the PyTorch Torchvision object detection finetuning tutorial. Uses 
 # Example
 
 <p align="left">
-    <img width="50%" src="examples/test7.png" style="max-width:50%;" alt="masks drawn over the test image through GIMP"></a>
-    <img width="50%" src="examples/Figure_7.png" style="max-width:50%;"></a>
-    <img width="50%" src="examples/Figure_7d1.png" style="max-width:50%;"></a>
-    <img width="50%" src="examples/Figure_7d2.png" style="max-width:50%;"></a>
-    <img width="50%" src="examples/Figure_7d3.png" style="max-width:50%;"></a>
-    <img width="50%" src="examples/Figure_7d4.png" style="max-width:50%;"></a>
+    <img width="50%" src="examples/test7.png" style="max-width:50%;"></a>
+    <img width="20%" src="examples/Figure_7.png" style="max-width:20%;"></a>
+    <img width="20%" src="examples/Figure_7d1.png" style="max-width:20%;"></a>
+    <img width="20%" src="examples/Figure_7d2.png" style="max-width:20%;"></a>
+    <img width="20%" src="examples/Figure_7d3.png" style="max-width:20%;"></a>
+    <img width="20%" src="examples/Figure_7d4.png" style="max-width:20%;"></a>
 </p>
 
     
