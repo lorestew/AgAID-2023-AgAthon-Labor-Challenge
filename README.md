@@ -10,12 +10,12 @@ Based off of the PyTorch Torchvision object detection finetuning tutorial. Uses 
     <img width="100%" src="examples/test7.png" style="max-width:50%;"></a>
 </p>
 <p align="left">
-    <img width="100%" src="examples/figure_7.png" style="max-width:50%;"></a>
+    <img width="100%" src="examples/Figure_7.png" style="max-width:50%;"></a>
 </p>
-    <img width="100%" src="examples/figure_7d1.png" style="max-width:50%;"></a>
-    <img width="100%" src="examples/figure_7d2.png" style="max-width:50%;"></a>
-    <img width="100%" src="examples/figure_7d3.png" style="max-width:50%;"></a>
-    <img width="100%" src="examples/figure_7d4.png" style="max-width:50%;"></a>
+    <img width="100%" src="examples/Figure_7d1.png" style="max-width:50%;"></a>
+    <img width="100%" src="examples/Figure_7d2.png" style="max-width:50%;"></a>
+    <img width="100%" src="examples/Figure_7d3.png" style="max-width:50%;"></a>
+    <img width="100%" src="examples/Figure_7d4.png" style="max-width:50%;"></a>
 
 # Guide
 
