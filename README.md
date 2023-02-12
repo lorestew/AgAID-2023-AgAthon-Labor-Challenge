@@ -9,10 +9,10 @@ In the first image the masks were drawn over the test image using GIMP. The seco
 <p align="left">
     <img width="45%" src="examples/test7.png" style="max-width:50%;"></a>
     <img width="50%" src="examples/Figure_7.png" style="max-width:20%;"></a>
-    <img width="22%" src="examples/Figure_7d1.png" style="max-width:20%;"></a>
-    <img width="22%" src="examples/Figure_7d2.png" style="max-width:20%;"></a>
-    <img width="22%" src="examples/Figure_7d3.png" style="max-width:20%;"></a>
-    <img width="22%" src="examples/Figure_7d4.png" style="max-width:20%;"></a>
+    <img width="23%" src="examples/Figure_7d1.png" style="max-width:20%;"></a>
+    <img width="23%" src="examples/Figure_7d2.png" style="max-width:20%;"></a>
+    <img width="23%" src="examples/Figure_7d3.png" style="max-width:20%;"></a>
+    <img width="23%" src="examples/Figure_7d4.png" style="max-width:20%;"></a>
 </p>
 Last four images are examples of masks detected on the test image.
 
